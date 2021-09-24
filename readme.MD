@@ -1,4 +1,7 @@
 # DDD in Go
+如何在Go中实现领域驱动设计（DDD）：学习如何在Go应用程序中使用DDD的简单方法 
+https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d
+
 This repository is used to present how I find implementing DDD in Go projects works out
 
 This is written and explained in my article [How To Implement Domain-Driven Design (DDD) in Golang](https://programmingpercy.tech/blog/how-to-structure-ddd-in-go/)
